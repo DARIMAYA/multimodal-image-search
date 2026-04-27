@@ -39,5 +39,5 @@ A complete solution for cross-modal image retrieval and understanding, combining
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/multimodal-image-search.git
+git clone https://github.com/DARIMAYA/multimodal-image-search.git
 cd multimodal-image-search
